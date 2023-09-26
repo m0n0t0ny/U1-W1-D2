@@ -70,13 +70,13 @@ main {
   height: 4rem;
 }
 
-.header-title {
+.header-menu {
   width: 33%;
   display: inline-block;
   vertical-align: middle;
 }
 
-.header-menu {
+.header-title {
   width: 33%;
   display: inline-block;
   vertical-align: middle;
@@ -130,7 +130,12 @@ caption {
 }
 
 tr {
-  width: 100%;
+  text-align: center;
+  border: 1px solid #111;
+}
+
+th {
+  width: 33%;
   text-align: center;
   border: 1px solid #111;
 }
@@ -138,6 +143,7 @@ tr {
 td {
   width: 33%;
   text-align: center;
+  border: 1px solid #111;
 }
 
 .td-label {
