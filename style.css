@@ -67,12 +67,11 @@ header ul {
 }
 
 .epicode-video {
-  width: 100%;
-  margin: auto;
+  width: 80%;
+  padding: 0 20%;
 }
 
 .epicode-video iframe {
-  width: 100%;
 }
 
 .newsletter {
